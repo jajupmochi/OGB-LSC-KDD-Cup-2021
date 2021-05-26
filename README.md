@@ -10,10 +10,11 @@ pip install -U ogb
 
 git clone https://github.com/jajupmochi/graphkit-learn.git
 cd graphkit-learn
+git checkout v0.2.x
 python setup.py install
 ```
 
-## Train.
+## Training.
 ```
 python main_treelet.py
 ```
